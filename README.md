@@ -1,5 +1,5 @@
 # vipin
-1. good 
+1. gold
 2. bad 
 3. love
-4. pain 
+4. vippu
